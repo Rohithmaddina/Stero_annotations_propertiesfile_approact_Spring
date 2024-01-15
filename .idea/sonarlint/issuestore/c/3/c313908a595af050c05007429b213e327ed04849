@@ -1,0 +1,9 @@
+
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ößÊíşÿÿÿÿ8ÃÚ÷åĞ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Á‘ñæĞ1
+G	java:S106"+Replace this use of System.out by a logger.(İ˜í­8²²öåĞ1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ­Şüÿÿÿÿ8¶²öåĞ1
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ñìûæĞ1
