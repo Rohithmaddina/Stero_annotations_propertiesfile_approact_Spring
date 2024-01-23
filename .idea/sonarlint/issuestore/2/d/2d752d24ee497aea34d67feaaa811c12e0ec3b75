@@ -1,5 +1,5 @@
 
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8†û—çĞ1
-G	java:S106"+Replace this use of System.out by a logger.(ö‚Öº8÷õ§æĞ1
-L	java:S106"+Replace this use of System.out by a logger.(¤™©ïıÿÿÿÿ8“ö§æĞ1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8å¸ØçĞ1
+G	java:S106"+Replace this use of System.out by a logger.(ö‚Öº8ï¸ØçĞ1
+L	java:S106"+Replace this use of System.out by a logger.(¤™©ïıÿÿÿÿ8ğ¸ØçĞ1

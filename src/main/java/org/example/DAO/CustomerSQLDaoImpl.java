@@ -17,7 +17,7 @@ public class CustomerSQLDaoImpl implements ICustomerDao{
     {
         System.out.println("CustomerSQLImpl :: object is created");
     }
-    private static final String REALTIMEDI_CUSTOMER_INSERT_QUERY = "insert into customer(`cname`,`caddress`,`pamt`,`rate`,`time`,`intrAmt`)values(?,?,?,?,?,?)";
+    private static final String REALTIMEDI_CUSTOMER_INSERT_QUERY = "insert into customer(`cname`,`caddress`,`pamt`,`rate`,`ctime`,`intrAmt`)values(?,?,?,?,?,?)";
    @Autowired
     private DataSource dataSource;
     @Override

@@ -26,6 +26,7 @@ public class CustomerMngtImpl implements ICustomerMngtservice{
         customerBo.setPamt(dto.getPamt());
         customerBo.setTime(dto.getTime());
         customerBo.setRate(dto.getRate());
+        customerBo.setIntrAmount(intrAmount);
         int count=dao.save(customerBo);
         return count == 0 ? "customer registration failed"
                 : "customer registration succesfull---->SimpleInterestAmount::" + intrAmount;
